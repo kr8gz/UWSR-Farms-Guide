@@ -1,0 +1,25 @@
+body {
+    padding: 20px;
+}
+
+.warning {
+    max-width: 960px;
+    margin: auto;
+    padding: 10px;
+    display: grid;
+    grid-template-columns: auto auto;
+    column-gap: 10px;
+    align-items: center;
+    font-family: 'Comic Sans MS';
+    text-align: justify;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 10px;
+    border-color: gold;
+    background: rgb(255, 255, 160);
+    box-shadow: 5px 5px 10px lightgray;
+}
+
+.warning-icon {
+    width: 5em;
+}
